@@ -1,16 +1,16 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.1",
     "description": "Claude Code system administration tool — TUI & Web",
     "homepage": "https://github.com/uppinote20/clavis",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/uppinote20/clavis/releases/download/v0.1.0/clavis-x86_64-pc-windows-msvc.zip",
-            "hash": "a476782ff045ef6339a51f790009a8c67150a45312ccfea52cc424f31f1e94c4"
+            "url": "https://github.com/uppinote20/clavis/releases/download/v0.2.1/clavis-x86_64-pc-windows-msvc.zip",
+            "hash": "13c2694f2a9cafab3c8133222398747035deee8d40e207a35b012022e3581de7"
         },
         "arm64": {
-            "url": "https://github.com/uppinote20/clavis/releases/download/v0.1.0/clavis-aarch64-pc-windows-msvc.zip",
-            "hash": "4b15670c4b9b0514a5152777122aa4cd294a42a5be5854d26d68026d85ca6f86"
+            "url": "https://github.com/uppinote20/clavis/releases/download/v0.2.1/clavis-aarch64-pc-windows-msvc.zip",
+            "hash": "bdc189274163966f55122ebbcafccfb6528d241d3bf8223e48a1d828ccc4e422"
         }
     },
     "bin": "clavis.exe",
