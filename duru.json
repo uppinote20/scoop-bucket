@@ -1,16 +1,16 @@
 {
-    "version": "0.4.1",
+    "version": "0.5.0",
     "description": "Terminal dashboard for Claude Code — explore, manage, and monitor your setup",
     "homepage": "https://github.com/uppinote20/duru",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/uppinote20/duru/releases/download/v0.4.1/duru-x86_64-pc-windows-msvc.zip",
-            "hash": "ac3aece3b6870a60017e3b465b7d9476fe2336299db02d1f5d96307b1008a7f3"
+            "url": "https://github.com/uppinote20/duru/releases/download/v0.5.0/duru-x86_64-pc-windows-msvc.zip",
+            "hash": "76b87c1f156cb51478b6aba1a8124ac9119afd6603d01042c2d1f7f72e91b154"
         },
         "arm64": {
-            "url": "https://github.com/uppinote20/duru/releases/download/v0.4.1/duru-aarch64-pc-windows-msvc.zip",
-            "hash": "8dfd2c065e55e10a727fd951786be7cd30100bc4bbaab70b7671017383bb2ab7"
+            "url": "https://github.com/uppinote20/duru/releases/download/v0.5.0/duru-aarch64-pc-windows-msvc.zip",
+            "hash": "46a58afda0c7b42e47fa38d10f9dbbb8e522fc774f49974eeb57481ac67753cb"
         }
     },
     "bin": "duru.exe",
